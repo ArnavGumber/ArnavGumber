@@ -1,3 +1,3 @@
 - 👋 Hi, I’m ArnavGumber
-- 👀 I’m interested in HTML, CSS, JavaScript and Python
-- 📫 How to reach me :- Just search "Code Ininite with Arnav" on any browser (like chrome), google or YouTube
+- 👀 I’m interested in HTML, CSS, JavaScript, React, Express.js
+- 📫 How to reach me :- https://arnavgumber.in
